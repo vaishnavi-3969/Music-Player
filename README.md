@@ -1,6 +1,5 @@
 ## Music Player
 A customizable music player built with React.js and Tailwind CSS. 
-Music Player using React JS and Tailwind CSS
 
 ## Features
 Play, pause, skip, and control volume of audio tracks.
